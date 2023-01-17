@@ -1,4 +1,4 @@
-## The mini-compiler that converts the JS-like 'add' function to EVM runtime bytecode.
+## <p align="center"> The mini-compiler that converts the JS-like 'add' function to EVM runtime bytecode. </p>
 
 ### Compiler Phases:
 ```
