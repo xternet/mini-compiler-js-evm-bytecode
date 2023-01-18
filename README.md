@@ -3,7 +3,7 @@
 ### Compiler Phases:
 ```
  1. Lexical analysis: Convert characters to tokens/lexemes (according to lang. grammar).
- 2. Syntactic Analysis: Generate Abstract Syntax Tree (AST) //Parsing, Beginning of Intermediate Representation (IR).
+ 2. Syntactic Analysis: Generate Abstract Syntax Tree (AST) //Parsing.
  3. Semantic Analysis: Validate structure & components relationships.
  4. Code Generation: Convert AST to Opcodes & EVM bytecode. (Transformation)
 ```
