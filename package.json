@@ -1,7 +1,7 @@
 {
   "name": "mini-compiler-js-evm-bytecode",
   "version": "1.0.0",
-  "description": "A mini-compiler that converts the JS-like 'add' function to EVM run-time bytecode.",
+  "description": "A mini-compiler that converts the JS-like 'add' function to EVM bytecode.",
   "main": "index.js",
   "keywords": [],
   "author": "github.com/xternet",
